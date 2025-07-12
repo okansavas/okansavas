@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Okan Savas
 
-<!--
-**okansavas/okansavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently completing a certified Weiterbildung in **Data Science & AI** at Hochschule Hannover  
+🔁 Transitioning from QA Automation to **Data Science / Data Engineering** with a strong foundation in Python & SQL  
+🌍 Based in Hannover, open to remote/hybrid roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+- **Languages:** Python, SQL, Java (OOP), Shell
+- **Libraries & Tools:** Pandas, NumPy, Scikit-Learn, PyTorch, Matplotlib, Seaborn, RestAssured, Postman
+- **Dev Tools:** Git, GitHub, Jenkins, Jira, VS Code, Linux
+- **Concepts:** ETL Pipelines, Machine Learning, Data Modeling, Test Automation, Agile/Scrum
+
+---
+
+## 🚀 Ongoing Projects
+- 🔄 **Energy Consumption Forecasting** (ETL + ML pipeline)
+- 📊 **Exploratory Data Analysis** with public datasets (healthcare, finance, energy)
+- 🤖 Fine-tuning Transformers in Hugging Face (LLMs & generative AI experiments)
+
+---
+
+## 🌱 Currently Learning
+- Cloud-based data workflows (AWS, BigQuery)
+- Streamlit for interactive data dashboards
+- Deployment of ML models & APIs
+
+---
+
+## 📫 Get in Touch
+- Email: [okansav@gmail.com](mailto:okansav@gmail.com)
+- LinkedIn: [linkedin.com/in/okan-savas-0b6a83310](https://www.linkedin.com/in/okan-savas-0b6a83310)
