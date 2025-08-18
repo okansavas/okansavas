@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack & Skills
 - **Languages:** Python, SQL, Java (OOP), Shell
-- **Libraries & Tools:** Pandas, NumPy, Scikit-Learn, PyTorch, Matplotlib, Seaborn, RestAssured, Postman, Selenium Web Driver, Test NG, Cucumber
+- **Libraries & Tools:** Pandas, NumPy, Scikit-Learn, PyTorch, Matplotlib, Seaborn, RestAssured, Postman, Selenium Web Driver, Test NG, Cucumber, Appium
 - **Dev Tools:** Git, GitHub, Jenkins, Jira, VS Code, Linux
 - **Concepts:** ETL Pipelines, Machine Learning, Data Modeling, Test Automation, Agile/Scrum
 
