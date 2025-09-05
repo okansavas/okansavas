@@ -2,7 +2,7 @@
 
 🎓 Currently completing a certified Weiterbildung in **Data Science & AI** at Hochschule Hannover  
 🧪 Professional background in QA Testing & Automation, with hands-on experience ensuring software quality
-🔁 Experiencing into Data Science / Data Engineering with a strong foundation in Python & SQL  
+🔁 Experiencing into Data Science / Data Engineering with a foundation in Python & SQL  
 🌍 Based in Hannover, open to remote/hybrid roles
 
 ---
