@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Okan Savas
 
-🎓 Currently completing a certified Weiterbildung in **Data Science & AI** at Hochschule Hannover  
+🎓 Completed a certified Weiterbildung in **Data Science & AI** at Hochschule Hannover  
 🧪 Background in QA Testing & Automation, with hands-on experience ensuring software quality   
-🔁 Experiencing into Data Science / Data Engineering with a strong foundation in Python libraries  
+🔁 Experiencing into automation testing with a strong foundation in Python, Selenium and data-driven testing  
 🌍 Based in Hannover, open to remote/hybrid roles
 
 ---
