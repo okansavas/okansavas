@@ -2,8 +2,8 @@
 
 🎓 Completed a certified Weiterbildung in **Data Science & AI** at Hochschule Hannover  
 🧪 Background in QA Testing & Automation, with hands-on experience ensuring software quality   
-🔁 Experienced in automation testing with a strong foundation in Python, Selenium and data-driven testing  
-🌍 Based in Hannover, open to remote/hybrid roles
+🔁 Experienced in automation testing with a strong foundation in Python, Selenium, and data-driven testing  
+🌍 Based in Hannover, open to remote or hybrid roles
 
 ---
 
