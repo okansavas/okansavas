@@ -1,13 +1,12 @@
-I enjoy creating testing projects that make software more reliable and user-friendly. My focus is on clarity, structured test design, and well-documented results that help teams deliver better products. I take satisfaction in improving each build step by step and ensuring that every release meets high quality standards.
+🎓 Completed a certified Weiterbildung in **Data Science & AI** at Hochschule Hannover  
+🧪 Background in **QA Testing & Automation**, with hands-on experience ensuring software quality   
+🔁 Experienced in automation testing with a strong foundation in Python, Selenium, and data-driven testing  
+🌍 Based in Hannover, open to remote or hybrid roles
 
-Languages:
+---
 
-Python – Good level (automation scripts, data validation)
-
-Java – Basic level (used in Selenium & TestNG)
-
-Tools & Frameworks:
-Selenium WebDriver, TestNG, Postman, Cucumber, SQL, Jira, VS Code, IntelliJ, GitHub
-
-Open to:
-Entry-level positions as QA Tester or Test Automation Engineer
+## 🛠️ Tech Stack & Skills
+- **Languages:** Python, Java, COBOL
+- **Libraries & Tools:** SQL, Pandas, NumPy, Scikit-Learn, PyTorch, Matplotlib, Seaborn, RestAssured, Postman, Selenium WebDriver, TestNG, Cucumber, Appium
+- **Dev Tools:** Git, GitHub, Jenkins, Jira, VS Code, Linux
+- **Concepts:** ETL Pipelines, Machine Learning, Data Modeling, Test Automation, Agile/Scrum
